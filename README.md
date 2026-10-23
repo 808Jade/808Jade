@@ -5,7 +5,7 @@
 
 ## 📌 Featured Projects (하단 Pinned Repositories 안내)
 
-### 1. [Monster Breakers](https://github.com/kimgyeongmin5348/Monster_Breakers)
+### 1. [Monster Breakers]([https://github.com/kimgyeongmin5348/Monster_Breakers](https://github.com/808Jade/Monster_Breakers/tree/main))
 * **개요**: DirectX 12 기반 3D 멀티플레이 액션 게임 (졸업작품)
 
 ### 2. [Krafton-Jungle (Game TechLab Archive)](https://github.com/808Jade/Krafton-Jungle)
